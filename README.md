@@ -18,3 +18,6 @@ A VSCode dark theme inspired by the 25時、ナイトコードで。 (Nightcord 
 ## License
 
 MIT © Aaron Hartono
+
+## Source
+https://code.visualstudio.com/api/references/theme-color

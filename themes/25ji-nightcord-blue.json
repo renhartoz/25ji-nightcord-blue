@@ -26,7 +26,8 @@
 		"activityBar.background": "#070715",
 		"activityBar.foreground": "#7289da",
 		"activityBarBadge.background": "#7289da",
-		"activityBarBadge.foreground": "#0E0E1A",
+		"activityBarBadge.foreground": "#E5F4FF",
+		"progressBar.background": "#bd6a8b",
 
 		"statusBar.background": "#20245c",
 		"statusBar.foreground": "#dce7ff",
@@ -44,7 +45,7 @@
 		"tab.inactiveForeground": "#AAAAAA",
 
 		"terminal.background": "#060610",
-		"terminal.foreground": "#dce7ff",
+		"terminal.foreground": "#a6b2ff",
 		"terminal.ansiBlack": "#060610",
 		"terminal.ansiRed": "#bd6a8b",
 		"terminal.ansiGreen": "#ceae8e",
@@ -52,7 +53,7 @@
 		"terminal.ansiBlue": "#7289da",
 		"terminal.ansiMagenta": "#ddaacc",
 		"terminal.ansiCyan": "#a6b4ef",
-		"terminal.ansiWhite": "#dce7ff",
+		"terminal.ansiWhite": "#a6b2ff",
 		"terminal.ansiBrightBlack": "#5F6A89",
 		"terminal.ansiBrightWhite": "#ffffff",
 
@@ -76,6 +77,7 @@
 		"editorSuggestWidget.highlightForeground": "#a6b4ef",
 		"editorSuggestWidget.selectedBackground": "#7289da",
 		"editorSuggestWidget.selectedForeground": "#0E0E1A",
+		"editorSuggestWidget.focusHighlightForeground": "#bd6a8b",
 
 		"editorHoverWidget.background": "#1C1C2B",
 		"editorHoverWidget.border": "#7289da",
@@ -83,11 +85,11 @@
 
 		"editorWarning.foreground": "#884499",
 		"editorError.foreground": "#884499",
-		"editorInfo.foreground": "#A6FFEF",
+		"editorInfo.foreground": "#a6b2ff",
 
 		"button.background": "#7289da",
 		"button.foreground": "#0E0E1A",
-		"button.hoverBackground": "#5b6fc7",
+		"button.hoverBackground": "#bd6a8b",
 
 		"problemsErrorIcon.foreground": "#884499",
 		"problemsWarningIcon.foreground": "#884499",
