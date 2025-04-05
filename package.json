@@ -1,0 +1,23 @@
+{
+  "name": "25-ji-nightcord-blue",
+  "displayName": "25-ji Nightcord Blue",
+  "description": "A dreamy dark VSCode theme inspired by 25-ji Nightcord.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "44120N",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "25時、ナイトコードで。Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/25ji-nightcord-blue-color-theme.json"
+      }
+    ]
+  }
+}
