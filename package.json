@@ -4,8 +4,8 @@
   "description": "A dreamy dark VSCode theme inspired by 25-ji Nightcord.",
   "version": "1.0.1",
   "license": "MIT",
-  "publisher": "44120N",
-  "repository": "https://github.com/44120N/25ji-nightcord-blue",
+  "publisher": "renhartoz",
+  "repository": "https://github.com/renhartoz/25ji-nightcord-blue",
   "engines": {
     "vscode": "^1.98.2"
   },
