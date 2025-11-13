@@ -18,6 +18,7 @@
 		"editorBracketHighlight.foreground3": "#ceae8e",
 		"editorBracketHighlight.foreground4": "#ddaacc",
 		"editorBracketHighlight.foreground5": "#a2bbd9",
+		"editor.wordHighlightBackground": "#8a8acd22",
 
 		"sideBar.background": "#0a0a1a",
 		"sideBar.foreground": "#dce7ff",
@@ -112,7 +113,7 @@
 			}
 		},
 		{
-			"scope": ["variable", "meta.definition.variable.name", "support.variable"],
+			"scope": ["variable", "meta.definition.variable.name", "support.variable", "source.python"],
 			"settings": {
 				"foreground": "#ceae8e"
 			}
@@ -166,9 +167,9 @@
 			}
 		},
 		{
-			"scope": ["entity.other.attribute-name", "meta.tag.attributes", "support.attribute"],
+			"scope": ["entity.other.attribute-name", "meta.tag.attributes", "support.attribute", "meta.attribute", "variable.parameter", "meta.function-call.arguments"],
 			"settings": {
-				"foreground": "#ceae8e"
+				"foreground": "#86cecb"
 			}
 		},
 		{
@@ -190,7 +191,7 @@
 			}
 		},
 		{
-			"scope": ["meta.decorator", "meta.decorator punctuation", "storage.type.annotation"],
+			"scope": ["meta.decorator", "storage.type.annotation", "meta.object-literal"],
 			"settings": {
 				"foreground": "#ddaacc"
 			}
